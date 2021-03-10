@@ -1,0 +1,3 @@
+dominio#UO#SamAccountName#Name#GivenName#Surname#DisplayName#AccountExpirationDate#Habilitado#CambiarPassword#Password
+dominio.local#ou=cocina,ou=estrella de la muerte,dc=dominio,dc=local#dvader#dvader#Darth#Vader#Darth Vader#01/01/2016#1#1#123abc.
+dominio.local#ou=naboo,dc=dominio,dc=local#bfeet#bfeet#Boba#Feet#Boba Feet#01/01/2016#1#1#456abc.

@@ -1,0 +1,6 @@
+dominio#UO#SamAccountName#Name#GivenName#Surname#DisplayName#AccountExpirationDate#Habilitado#CambiarPassword#Password
+dominio.local#cn=users,dc=dominio,dc=local#lskywalker#lskywalker#Luke#Skywalker#Luke Skywalker#01/01/2016#1#1#123abc.
+dominio.local#cn=users,dc=dominio,dc=local#hsolo#hsolo#Han#Solo#Han Solo#01/01/2016#1#1#456abc.
+dominio.local#cn=users,dc=dominio,dc=local#pleia#pleia#Princesa#Leia#Princesa Leia#01/01/2016#1#1#789abc.
+dominio.local#cn=users,dc=dominio,dc=local#c3pO#c3pO#C#3PO#C-3PO#01/01/2016#1#1#123def.
+dominio.local#cn=users,dc=dominio,dc=local#r2d2#r2d2#R#2D2#R-2D2#01/01/2016#1#1#456def.
